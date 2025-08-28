@@ -79,6 +79,11 @@ These logs help monitor activity and debug issues.
 
 ---
 
+## 📖 Documentation
+
+- [Project Documentation (PDF)](docs/Quiz_Game.pdf)
+
+
 ## 📌 Credits
 
 Developed as a final project by **Eliya Samary**.  
