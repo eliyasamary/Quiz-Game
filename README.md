@@ -13,10 +13,10 @@ quiz-game/
 ├─ client.py        # Client with GUI: allows users to join or host games
 ├─ consts.py        # Shared constants for consistency
 ├─ quiz.py          # Quiz questions and categories
+├─ doc/
+│  ├─ Quiz Game.pdf # Project documentation  
 ├─ quiz_photo.png   # Image used in the GUI
-├─ server_log.log   # (auto-created) server logs
-├─ client_log.log   # (auto-created) client logs
-└─ README.md        # Project documentation (this file)
+└─ README.md        
 ```
 
 ---
