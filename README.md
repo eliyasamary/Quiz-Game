@@ -81,7 +81,7 @@ These logs help monitor activity and debug issues.
 
 ## 📖 Documentation
 
-- [Project Documentation (PDF)](docs/Quiz_Game.pdf)
+- [Project Documentation (PDF)](doc/Quiz_Game.pdf)
 
 
 ## 📌 Credits
